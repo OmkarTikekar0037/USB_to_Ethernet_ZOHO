@@ -1,4 +1,4 @@
-26769113021393179
+26772663171200062
 93LC56B
 93LC56B_SOIC_8
 
@@ -2820,6 +2820,13 @@ speaker CUI
 0
 2
 2
+C3E-8.000-18-3030-R
+XTAL_C3E-8.000-18-3030-R
+
+
+0
+4
+4
 Calibration_Scale
 Gauge_10mm_Type1_CopperTop
 Gauge, Massstab, 10mm, CopperTop, Type 1,
@@ -99399,6 +99406,13 @@ Logo WEEE
 0
 0
 0
+TPS7A0230PDQNR
+IC_TPS7A0230PDQNR
+
+
+0
+5
+5
 TerminalBlock
 TerminalBlock_MaiXu_MX126-5.0-02P_1x02_P5.00mm
 terminal block MaiXu MX126-5.0-02P, 2 pins, pitch 5mm, size 10.5x7.8mm, drill diameter 1.3mm, pad diameter 2.8mm, https://www.lcsc.com/datasheet/lcsc_datasheet_2309150913_MAX-MX126-5-0-03P-GN01-Cu-S-A_C5188435.pdf, script-generated using https://gitlab.com/kicad/libraries/kicad-footprint-generator/-/tree/master/scripts/TerminalBlock_MaiXu

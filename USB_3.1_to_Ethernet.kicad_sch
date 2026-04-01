@@ -298,6 +298,363 @@
 			)
 			(embedded_fonts no)
 		)
+		(symbol "C3E-8.000-18-3030-R:C3E-8.000-18-3030-R"
+			(pin_names
+				(offset 1.016)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "Y"
+				(at -5.0878 6.3559 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left bottom)
+				)
+			)
+			(property "Value" "C3E-8.000-18-3030-R"
+				(at -5.0944 -10.16 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left bottom)
+				)
+			)
+			(property "Footprint" "C3E-8.000-18-3030-R:XTAL_C3E-8.000-18-3030-R"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "MF" "Aker Technology USA"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "MAXIMUM_PACKAGE_HEIGHT" "0.75mm"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "Package" "SMD-4 Aker"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "Price" "None"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "Check_prices" "https://www.snapeda.com/parts/C3E-8.000-18-3030-R/Aker/view-part/?ref=eda"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "STANDARD" "Manufacturer Recommendations"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "PARTREV" "August 01, 2022"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "SnapEDA_Link" "https://www.snapeda.com/parts/C3E-8.000-18-3030-R/Aker/view-part/?ref=snap"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "MP" "C3E-8.000-18-3030-R"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "Description_1" "Crystal, 3.20mm x2.50mm,8MHz,18pF.-20-70C"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "Availability" "In Stock"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "MANUFACTURER" "Aker"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(symbol "C3E-8.000-18-3030-R_0_0"
+				(polyline
+					(pts
+						(xy -5.08 0) (xy -2.54 0)
+					)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(rectangle
+					(start -5.08 -7.62)
+					(end 5.08 5.08)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(polyline
+					(pts
+						(xy -2.3368 2.54) (xy -2.3368 -2.54)
+					)
+					(stroke
+						(width 0.4064)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -1.397 2.54) (xy -1.397 -2.54)
+					)
+					(stroke
+						(width 0.4064)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -1.397 2.54) (xy 1.397 2.54)
+					)
+					(stroke
+						(width 0.4064)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.397 2.54) (xy 1.397 -2.54)
+					)
+					(stroke
+						(width 0.4064)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.397 -2.54) (xy -1.397 -2.54)
+					)
+					(stroke
+						(width 0.4064)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 2.3368 2.54) (xy 2.3368 -2.54)
+					)
+					(stroke
+						(width 0.4064)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 2.54 0) (xy 5.08 0)
+					)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin passive line
+					(at -7.62 0 0)
+					(length 2.54)
+					(name "~"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 7.62 0 180)
+					(length 2.54)
+					(name "~"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+					(number "3"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+				)
+				(pin power_in line
+					(at 7.62 -5.08 180)
+					(length 2.54)
+					(name "GND"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+				)
+				(pin power_in line
+					(at 7.62 -5.08 180)
+					(length 2.54)
+					(hide yes)
+					(name "GND"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+					(number "4"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
 		(symbol "Connector:RJ45_JK0654219"
 			(exclude_from_sim no)
 			(in_bom yes)
@@ -4568,6 +4925,157 @@
 			)
 			(embedded_fonts no)
 		)
+		(symbol "Device:FerriteBead_Small"
+			(pin_numbers
+				(hide yes)
+			)
+			(pin_names
+				(offset 0)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "FB"
+				(at 1.905 1.27 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(property "Value" "FerriteBead_Small"
+				(at 1.905 -1.27 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(property "Footprint" ""
+				(at -1.778 0 90)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "~"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Ferrite bead, small symbol"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "L ferrite bead inductor filter"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_fp_filters" "Inductor_* L_* *Ferrite*"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "FerriteBead_Small_0_1"
+				(polyline
+					(pts
+						(xy -1.8288 0.2794) (xy -1.1176 1.4986) (xy 1.8288 -0.2032) (xy 1.1176 -1.4224) (xy -1.8288 0.2794)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 0.889) (xy 0 1.2954)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 -1.27) (xy 0 -0.7874)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "FerriteBead_Small_1_1"
+				(pin passive line
+					(at 0 2.54 270)
+					(length 1.27)
+					(name "~"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 0 -2.54 90)
+					(length 1.27)
+					(name "~"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
 		(symbol "KSZ9031RNXCC:KSZ9031RNXCC"
 			(pin_names
 				(offset 1.016)
@@ -7811,6 +8319,453 @@
 			)
 			(embedded_fonts no)
 		)
+		(symbol "Power_Protection:USBLC6-2P6"
+			(pin_names
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "U"
+				(at 0.635 5.715 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(property "Value" "USBLC6-2P6"
+				(at 0.635 3.81 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(property "Footprint" "Package_TO_SOT_SMD:SOT-666"
+				(at 1.016 -6.731 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+						(italic yes)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "https://www.st.com/resource/en/datasheet/usblc6-2.pdf"
+				(at 1.016 -8.636 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Description" "Very low capacitance ESD protection diode, 2 data-line, SOT-666"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "usb ethernet video"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_fp_filters" "SOT?666*"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "USBLC6-2P6_0_0"
+				(circle
+					(center -1.524 0)
+					(radius 0.0001)
+					(stroke
+						(width 0.508)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(circle
+					(center -0.508 2.032)
+					(radius 0.0001)
+					(stroke
+						(width 0.508)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(circle
+					(center -0.508 -4.572)
+					(radius 0.0001)
+					(stroke
+						(width 0.508)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(circle
+					(center 0.508 2.032)
+					(radius 0.0001)
+					(stroke
+						(width 0.508)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(circle
+					(center 0.508 -4.572)
+					(radius 0.0001)
+					(stroke
+						(width 0.508)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(circle
+					(center 1.524 -2.54)
+					(radius 0.0001)
+					(stroke
+						(width 0.508)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "USBLC6-2P6_0_1"
+				(polyline
+					(pts
+						(xy -2.54 0) (xy 2.54 0)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -2.54 -2.54) (xy 2.54 -2.54)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -2.032 0.508) (xy -1.016 0.508) (xy -1.524 1.524) (xy -2.032 0.508)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -2.032 -3.048) (xy -1.016 -3.048)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -1.016 1.524) (xy -2.032 1.524)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -1.016 -4.064) (xy -2.032 -4.064) (xy -1.524 -3.048) (xy -1.016 -4.064)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -0.508 -1.143) (xy -0.508 -0.762) (xy 0.508 -0.762)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 2.54) (xy -0.508 2.032) (xy 0.508 2.032) (xy 0 1.524) (xy 0 -4.064) (xy -0.508 -4.572) (xy 0.508 -4.572)
+						(xy 0 -5.08)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0.508 -1.778) (xy -0.508 -1.778) (xy 0 -0.762) (xy 0.508 -1.778)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.016 1.524) (xy 2.032 1.524)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.016 -3.048) (xy 2.032 -3.048)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 2.032 0.508) (xy 1.016 0.508) (xy 1.524 1.524) (xy 2.032 0.508)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 2.032 -4.064) (xy 1.016 -4.064) (xy 1.524 -3.048) (xy 2.032 -4.064)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "USBLC6-2P6_1_1"
+				(rectangle
+					(start -2.54 2.794)
+					(end 2.54 -5.334)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(polyline
+					(pts
+						(xy -0.508 2.032) (xy -1.524 2.032) (xy -1.524 -4.572) (xy -0.508 -4.572)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0.508 -4.572) (xy 1.524 -4.572) (xy 1.524 2.032) (xy 0.508 2.032)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin passive line
+					(at -5.08 0 0)
+					(length 2.54)
+					(name "I/O1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -5.08 -2.54 0)
+					(length 2.54)
+					(name "I/O2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 0 5.08 270)
+					(length 2.54)
+					(name "VBUS"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "5"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 0 -7.62 90)
+					(length 2.54)
+					(name "GND"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 5.08 0 180)
+					(length 2.54)
+					(name "I/O1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "6"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 5.08 -2.54 180)
+					(length 2.54)
+					(name "I/O2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
 		(symbol "Regulator_Linear:TLV76733QWDRBxQ1"
 			(exclude_from_sim no)
 			(in_bom yes)
@@ -8058,35 +9013,333 @@
 			)
 			(embedded_fonts no)
 		)
+		(symbol "TPS7A0230PDQNR:TPS7A0230PDQNR"
+			(pin_names
+				(offset 1.016)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "U"
+				(at -12.7 8.255 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left bottom)
+				)
+			)
+			(property "Value" "TPS7A0230PDQNR"
+				(at -12.7 -10.16 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left bottom)
+				)
+			)
+			(property "Footprint" "TPS7A0230PDQNR:IC_TPS7A0230PDQNR"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "MF" "Texas Instruments"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "SNAPEDA_PACKAGE_ID" "102824"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "Package" "X2SON-4 Texas Instruments"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "Price" "None"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "Check_prices" "https://www.snapeda.com/parts/TPS7A0230PDQNR/Texas+Instruments/view-part/?ref=eda"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "STANDARD" "Manufacturer Recommendations"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "PARTREV" "C"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "SnapEDA_Link" "https://www.snapeda.com/parts/TPS7A0230PDQNR/Texas+Instruments/view-part/?ref=snap"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "MP" "TPS7A0230PDQNR"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "Purchase-URL" "https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=4523985&manufacturer=Texas Instruments&part_name=TPS7A0230PDQNR&search_term=tps7a02"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "Description_1" "200mA, nanopower-IQ (25 nA), low-dropout (LDO) voltage regulator with enable"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "MANUFACTURER" "Texas Instruments"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "Availability" "In Stock"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "MAXIMUM_PACKAGE_HEIGHT" "0.4 mm"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(symbol "TPS7A0230PDQNR_0_0"
+				(rectangle
+					(start -12.7 -7.62)
+					(end 12.7 7.62)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(pin input line
+					(at -17.78 5.08 0)
+					(length 5.08)
+					(name "IN"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+					(number "4"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at -17.78 0 0)
+					(length 5.08)
+					(name "EN"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+					(number "3"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+				)
+				(pin output line
+					(at 17.78 5.08 180)
+					(length 5.08)
+					(name "OUT"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+				)
+				(pin power_in line
+					(at 17.78 -2.54 180)
+					(length 5.08)
+					(name "THERMAL_PAD"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+					(number "5"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+				)
+				(pin power_in line
+					(at 17.78 -5.08 180)
+					(length 5.08)
+					(name "GND"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
 	)
 	(symbol
-		(lib_id "93LC56B_SN:93LC56B_SN")
-		(at 149.098 71.882 0)
+		(lib_id "C3E-8.000-18-3030-R:C3E-8.000-18-3030-R")
+		(at 74.93 180.086 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "3687af6a-1948-43b0-89bb-70a1d75b6852")
-		(property "Reference" "U2"
-			(at 149.098 54.61 0)
+		(uuid "1788a898-0a49-40ea-86d4-e7d396fdf516")
+		(property "Reference" "Y1"
+			(at 74.93 170.434 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Value" "93LC56B_SN"
-			(at 149.098 57.15 0)
+		(property "Value" "C3E-8.000-18-3030-R"
+			(at 74.93 172.974 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Footprint" "93LC56B:93LC56B_SOIC_8"
-			(at 149.098 71.882 0)
+		(property "Footprint" "C3E-8.000-18-3030-R:XTAL_C3E-8.000-18-3030-R"
+			(at 74.93 180.086 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8096,7 +9349,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 149.098 71.882 0)
+			(at 74.93 180.086 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8105,7 +9358,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 149.098 71.882 0)
+			(at 74.93 180.086 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8113,18 +9366,8 @@
 				(hide yes)
 			)
 		)
-		(property "MF" "Microchip"
-			(at 149.098 71.882 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Description_1" "Microchip 93LC56B/SN Serial EEPROM Memory, 2kb, 450ns, 2.5 to 5.5 V 8-Pin SOIC | Microchip Technology Inc. 93LC56B/SN"
-			(at 149.098 71.882 0)
+		(property "MF" "Aker Technology USA"
+			(at 74.93 180.086 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8133,8 +9376,18 @@
 				(hide yes)
 			)
 		)
-		(property "Package" "SO-8 Microchip"
-			(at 149.098 71.882 0)
+		(property "MAXIMUM_PACKAGE_HEIGHT" "0.75mm"
+			(at 74.93 180.086 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Package" "SMD-4 Aker"
+			(at 74.93 180.086 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8144,7 +9397,7 @@
 			)
 		)
 		(property "Price" "None"
-			(at 149.098 71.882 0)
+			(at 74.93 180.086 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8153,8 +9406,8 @@
 				(hide yes)
 			)
 		)
-		(property "SnapEDA_Link" "https://www.snapeda.com/parts/93LC56B/SN/Microchip+Technology/view-part/?ref=snap"
-			(at 149.098 71.882 0)
+		(property "Check_prices" "https://www.snapeda.com/parts/C3E-8.000-18-3030-R/Aker/view-part/?ref=eda"
+			(at 74.93 180.086 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8163,8 +9416,48 @@
 				(hide yes)
 			)
 		)
-		(property "MP" "93LC56B/SN"
-			(at 149.098 71.882 0)
+		(property "STANDARD" "Manufacturer Recommendations"
+			(at 74.93 180.086 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "PARTREV" "August 01, 2022"
+			(at 74.93 180.086 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "SnapEDA_Link" "https://www.snapeda.com/parts/C3E-8.000-18-3030-R/Aker/view-part/?ref=snap"
+			(at 74.93 180.086 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "MP" "C3E-8.000-18-3030-R"
+			(at 74.93 180.086 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Description_1" "Crystal, 3.20mm x2.50mm,8MHz,18pF.-20-70C"
+			(at 74.93 180.086 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8174,7 +9467,162 @@
 			)
 		)
 		(property "Availability" "In Stock"
-			(at 149.098 71.882 0)
+			(at 74.93 180.086 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" "Aker"
+			(at 74.93 180.086 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "93bc67ff-09cb-4c38-b843-844b4dcf0515")
+		)
+		(pin "1"
+			(uuid "923bd6fe-4d90-4aab-8112-6f0c5defab25")
+		)
+		(pin "4"
+			(uuid "e57e4e65-332b-43ba-b1c6-fa1ac02f3a50")
+		)
+		(pin "3"
+			(uuid "423b6575-919c-486a-b976-85ffae8a6770")
+		)
+		(instances
+			(project ""
+				(path "/b00c1253-ab18-4b3e-8546-134ebc6e3f42"
+					(reference "Y1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "93LC56B_SN:93LC56B_SN")
+		(at 197.612 29.21 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "3687af6a-1948-43b0-89bb-70a1d75b6852")
+		(property "Reference" "U2"
+			(at 197.612 11.938 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "93LC56B_SN"
+			(at 197.612 14.478 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "93LC56B:93LC56B_SOIC_8"
+			(at 197.612 29.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 197.612 29.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 197.612 29.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MF" "Microchip"
+			(at 197.612 29.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Description_1" "Microchip 93LC56B/SN Serial EEPROM Memory, 2kb, 450ns, 2.5 to 5.5 V 8-Pin SOIC | Microchip Technology Inc. 93LC56B/SN"
+			(at 197.612 29.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Package" "SO-8 Microchip"
+			(at 197.612 29.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Price" "None"
+			(at 197.612 29.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "SnapEDA_Link" "https://www.snapeda.com/parts/93LC56B/SN/Microchip+Technology/view-part/?ref=snap"
+			(at 197.612 29.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "MP" "93LC56B/SN"
+			(at 197.612 29.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Availability" "In Stock"
+			(at 197.612 29.21 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8184,7 +9632,7 @@
 			)
 		)
 		(property "Check_prices" "https://www.snapeda.com/parts/93LC56B/SN/Microchip+Technology/view-part/?ref=eda"
-			(at 149.098 71.882 0)
+			(at 197.612 29.21 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8228,7 +9676,7 @@
 	)
 	(symbol
 		(lib_id "KSZ9031RNXCC:KSZ9031RNXCC")
-		(at 246.38 74.676 0)
+		(at 71.374 91.694 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -8237,7 +9685,7 @@
 		(fields_autoplaced yes)
 		(uuid "4b4ba9b0-de22-455c-8c08-d0026b98a07b")
 		(property "Reference" "U3"
-			(at 246.38 29.21 0)
+			(at 71.374 46.228 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8245,7 +9693,7 @@
 			)
 		)
 		(property "Value" "KSZ9031RNXCC"
-			(at 246.38 31.75 0)
+			(at 71.374 48.768 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8253,7 +9701,7 @@
 			)
 		)
 		(property "Footprint" "KSZ9031RNX:IC_KSZ9031RNXCC"
-			(at 246.38 74.676 0)
+			(at 71.374 91.694 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8263,7 +9711,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 246.38 74.676 0)
+			(at 71.374 91.694 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8272,7 +9720,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 246.38 74.676 0)
+			(at 71.374 91.694 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8281,7 +9729,7 @@
 			)
 		)
 		(property "MF" "Microchip"
-			(at 246.38 74.676 0)
+			(at 71.374 91.694 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8291,7 +9739,7 @@
 			)
 		)
 		(property "MAXIMUM_PACKAGE_HEIGHT" "1.0 mm"
-			(at 246.38 74.676 0)
+			(at 71.374 91.694 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8301,7 +9749,7 @@
 			)
 		)
 		(property "Package" "QFN-48 Microchip"
-			(at 246.38 74.676 0)
+			(at 71.374 91.694 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8311,7 +9759,7 @@
 			)
 		)
 		(property "Price" "None"
-			(at 246.38 74.676 0)
+			(at 71.374 91.694 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8321,7 +9769,7 @@
 			)
 		)
 		(property "Check_prices" "https://www.snapeda.com/parts/KSZ9031RNXCC/Microchip+Technology/view-part/?ref=eda"
-			(at 246.38 74.676 0)
+			(at 71.374 91.694 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8331,7 +9779,7 @@
 			)
 		)
 		(property "STANDARD" "Manufacturer Recommendations"
-			(at 246.38 74.676 0)
+			(at 71.374 91.694 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8341,7 +9789,7 @@
 			)
 		)
 		(property "PARTREV" "07-09-24"
-			(at 246.38 74.676 0)
+			(at 71.374 91.694 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8351,7 +9799,7 @@
 			)
 		)
 		(property "SnapEDA_Link" "https://www.snapeda.com/parts/KSZ9031RNXCC/Microchip+Technology/view-part/?ref=snap"
-			(at 246.38 74.676 0)
+			(at 71.374 91.694 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8361,7 +9809,7 @@
 			)
 		)
 		(property "MP" "KSZ9031RNXCC"
-			(at 246.38 74.676 0)
+			(at 71.374 91.694 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8371,7 +9819,7 @@
 			)
 		)
 		(property "Description_1" "4/4 Transceiver Full Ethernet 48-QFN (7x7)"
-			(at 246.38 74.676 0)
+			(at 71.374 91.694 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8381,7 +9829,7 @@
 			)
 		)
 		(property "Availability" "In Stock"
-			(at 246.38 74.676 0)
+			(at 71.374 91.694 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8391,7 +9839,7 @@
 			)
 		)
 		(property "MANUFACTURER" "Microchip"
-			(at 246.38 74.676 0)
+			(at 71.374 91.694 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8633,7 +10081,7 @@
 	)
 	(symbol
 		(lib_id "Connector:RJ45_JK0654219")
-		(at 52.832 154.178 0)
+		(at 256.54 125.984 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -8642,7 +10090,7 @@
 		(fields_autoplaced yes)
 		(uuid "617f67e5-3a7c-485b-9e78-81db4a53c90a")
 		(property "Reference" "J1"
-			(at 69.596 152.9079 0)
+			(at 273.304 124.7139 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8651,7 +10099,7 @@
 			)
 		)
 		(property "Value" "RJ45_JK0654219"
-			(at 69.596 155.4479 0)
+			(at 273.304 127.2539 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8660,7 +10108,7 @@
 			)
 		)
 		(property "Footprint" "Connector_RJ:RJ45_Pulse_JK0654219NL_Horizontal"
-			(at 52.705 187.071 0)
+			(at 256.413 158.877 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8669,7 +10117,7 @@
 			)
 		)
 		(property "Datasheet" "https://media.digikey.com/pdf/Data%20Sheets/Pulse%20PDFs/JK%20Series.pdf"
-			(at 52.832 189.738 0)
+			(at 256.54 161.544 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8678,7 +10126,7 @@
 			)
 		)
 		(property "Description" "1 Port RJ45 Magjack Connector Through Hole 10/100/1000 Base-T, AutoMDIX"
-			(at 52.832 154.178 0)
+			(at 256.54 125.984 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8748,7 +10196,7 @@
 	)
 	(symbol
 		(lib_id "Connector:USB3_A")
-		(at 159.258 119.126 0)
+		(at 227.076 53.34 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -8757,7 +10205,7 @@
 		(fields_autoplaced yes)
 		(uuid "736e2407-eed5-4d45-b95a-567815f86c96")
 		(property "Reference" "J2"
-			(at 159.258 100.33 0)
+			(at 227.076 34.544 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8765,7 +10213,7 @@
 			)
 		)
 		(property "Value" "USB3_A"
-			(at 159.258 102.87 0)
+			(at 227.076 37.084 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8773,7 +10221,7 @@
 			)
 		)
 		(property "Footprint" "Connector_USB:USB3_A_Plug_Wuerth_692112030100_Horizontal"
-			(at 163.068 116.586 0)
+			(at 230.886 50.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8782,7 +10230,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 163.068 116.586 0)
+			(at 230.886 50.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8791,7 +10239,7 @@
 			)
 		)
 		(property "Description" "USB 3.0 A connector"
-			(at 159.258 119.126 0)
+			(at 227.076 53.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8839,33 +10287,188 @@
 		)
 	)
 	(symbol
-		(lib_id "LAN7801_9JX:LAN7801_9JX")
-		(at 48.006 68.072 0)
+		(lib_id "Power_Protection:USBLC6-2P6")
+		(at 113.792 186.182 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "e63ba021-55a6-41ae-a2ca-d4bc658ac7b4")
-		(property "Reference" "U1"
-			(at 48.006 12.7 0)
+		(uuid "7ca8f91e-ede0-483a-b762-deb6428fceb4")
+		(property "Reference" "U5"
+			(at 115.4431 177.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "USBLC6-2P6"
+			(at 115.4431 180.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Package_TO_SOT_SMD:SOT-666"
+			(at 114.808 192.913 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.st.com/resource/en/datasheet/usblc6-2.pdf"
+			(at 114.808 194.818 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Description" "Very low capacitance ESD protection diode, 2 data-line, SOT-666"
+			(at 113.792 186.182 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "6"
+			(uuid "197ecb40-8127-43b0-a61b-d711ef90cd94")
+		)
+		(pin "1"
+			(uuid "efcb5112-8c00-4ec6-8007-590657c16b9b")
+		)
+		(pin "5"
+			(uuid "ad83ef3f-d6a8-436b-9683-bdd6d1b6fde4")
+		)
+		(pin "4"
+			(uuid "82d92552-b7fd-48bd-89c1-de3511859c25")
+		)
+		(pin "3"
+			(uuid "bd4e5564-ca69-40e5-a69f-eb2d6c8ce2c1")
+		)
+		(pin "2"
+			(uuid "564300e9-e3d8-49c2-b1fa-74264e5bc0e9")
+		)
+		(instances
+			(project ""
+				(path "/b00c1253-ab18-4b3e-8546-134ebc6e3f42"
+					(reference "U5")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:FerriteBead_Small")
+		(at 145.288 186.182 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "c5405fe6-bea0-48be-b76e-324d5e48c92d")
+		(property "Reference" "FB1"
+			(at 148.844 184.8738 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "FerriteBead_Small"
+			(at 148.844 187.4138 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Inductor_SMD:L_0603_1608Metric_Pad1.05x0.95mm_HandSolder"
+			(at 143.51 186.182 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 145.288 186.182 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Ferrite bead, small symbol"
+			(at 145.288 186.182 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "582cce8d-d481-4749-bb69-a7ea4dfb4353")
+		)
+		(pin "2"
+			(uuid "103bd193-beea-4da1-bae1-f0c29f49215b")
+		)
+		(instances
+			(project ""
+				(path "/b00c1253-ab18-4b3e-8546-134ebc6e3f42"
+					(reference "FB1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "TPS7A0230PDQNR:TPS7A0230PDQNR")
+		(at 146.812 42.164 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "d6a7a17a-37eb-4792-966d-2c8cb6798aff")
+		(property "Reference" "U6"
+			(at 146.812 30.988 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Value" "LAN7801_9JX"
-			(at 48.006 15.24 0)
+		(property "Value" "TPS7A0230PDQNR"
+			(at 146.812 33.528 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Footprint" "LAN7801:QFN50P900X900X100-65N_LAN7801_9JX"
-			(at 48.006 68.072 0)
+		(property "Footprint" "TPS7A0230PDQNR:IC_TPS7A0230PDQNR"
+			(at 146.812 42.164 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8875,7 +10478,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 48.006 68.072 0)
+			(at 146.812 42.164 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8884,7 +10487,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 48.006 68.072 0)
+			(at 146.812 42.164 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8892,18 +10495,8 @@
 				(hide yes)
 			)
 		)
-		(property "SNAPEDA_PACKAGE_ID" ""
-			(at 48.006 68.072 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "B_NOM" "0.24"
-			(at 48.006 68.072 0)
+		(property "MF" "Texas Instruments"
+			(at 146.812 42.164 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8912,8 +10505,8 @@
 				(hide yes)
 			)
 		)
-		(property "EMAX" ""
-			(at 48.006 68.072 0)
+		(property "SNAPEDA_PACKAGE_ID" "102824"
+			(at 146.812 42.164 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8922,98 +10515,8 @@
 				(hide yes)
 			)
 		)
-		(property "D_MAX" "9.0"
-			(at 48.006 68.072 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "PACKAGE_TYPE" ""
-			(at 48.006 68.072 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "PIN_COUNT_D" "16.0"
-			(at 48.006 68.072 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "THERMAL_PAD" ""
-			(at 48.006 68.072 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "DMAX" ""
-			(at 48.006 68.072 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Check_prices" "https://www.snapeda.com/parts/LAN7801/9JX/Microchip+Technology/view-part/?ref=eda"
-			(at 48.006 68.072 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "B_MAX" "0.3"
-			(at 48.006 68.072 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Description_1" "USB Bridge, USB to Ethernet USB 3.1 Ethernet Interface 64-SQFN (9x9)"
-			(at 48.006 68.072 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "EMIN" ""
-			(at 48.006 68.072 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "JEDEC" ""
-			(at 48.006 68.072 0)
+		(property "Package" "X2SON-4 Texas Instruments"
+			(at 146.812 42.164 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9023,7 +10526,7 @@
 			)
 		)
 		(property "Price" "None"
-			(at 48.006 68.072 0)
+			(at 146.812 42.164 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9032,8 +10535,8 @@
 				(hide yes)
 			)
 		)
-		(property "ENOM" "0.5"
-			(at 48.006 68.072 0)
+		(property "Check_prices" "https://www.snapeda.com/parts/TPS7A0230PDQNR/Texas+Instruments/view-part/?ref=eda"
+			(at 146.812 42.164 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9042,8 +10545,8 @@
 				(hide yes)
 			)
 		)
-		(property "D_NOM" "9.0"
-			(at 48.006 68.072 0)
+		(property "STANDARD" "Manufacturer Recommendations"
+			(at 146.812 42.164 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9052,8 +10555,8 @@
 				(hide yes)
 			)
 		)
-		(property "VACANCIES" ""
-			(at 48.006 68.072 0)
+		(property "PARTREV" "C"
+			(at 146.812 42.164 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9062,8 +10565,8 @@
 				(hide yes)
 			)
 		)
-		(property "L_MAX" "0.5"
-			(at 48.006 68.072 0)
+		(property "SnapEDA_Link" "https://www.snapeda.com/parts/TPS7A0230PDQNR/Texas+Instruments/view-part/?ref=snap"
+			(at 146.812 42.164 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9072,8 +10575,8 @@
 				(hide yes)
 			)
 		)
-		(property "A_MAX" "1.0"
-			(at 48.006 68.072 0)
+		(property "MP" "TPS7A0230PDQNR"
+			(at 146.812 42.164 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9082,8 +10585,8 @@
 				(hide yes)
 			)
 		)
-		(property "Package" "VFQFN-64 Microchip"
-			(at 48.006 68.072 0)
+		(property "Purchase-URL" "https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=4523985&manufacturer=Texas Instruments&part_name=TPS7A0230PDQNR&search_term=tps7a02"
+			(at 146.812 42.164 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9092,8 +10595,8 @@
 				(hide yes)
 			)
 		)
-		(property "E2_NOM" "6.0"
-			(at 48.006 68.072 0)
+		(property "Description_1" "200mA, nanopower-IQ (25 nA), low-dropout (LDO) voltage regulator with enable"
+			(at 146.812 42.164 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9102,228 +10605,8 @@
 				(hide yes)
 			)
 		)
-		(property "D2_NOM" "6.0"
-			(at 48.006 68.072 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "PARTREV" "DS00002123F"
-			(at 48.006 68.072 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "DNOM" ""
-			(at 48.006 68.072 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "SnapEDA_Link" "https://www.snapeda.com/parts/LAN7801/9JX/Microchip+Technology/view-part/?ref=snap"
-			(at 48.006 68.072 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "DMIN" ""
-			(at 48.006 68.072 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "E_NOM" "9.0"
-			(at 48.006 68.072 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "BALL_ROWS" ""
-			(at 48.006 68.072 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "B_MIN" "0.18"
-			(at 48.006 68.072 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "STANDARD" "IPC 7351B"
-			(at 48.006 68.072 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "L_NOM" "0.4"
-			(at 48.006 68.072 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "MANUFACTURER" "Microchip"
-			(at 48.006 68.072 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "IPC" ""
-			(at 48.006 68.072 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "PIN_COLUMNS" ""
-			(at 48.006 68.072 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "MF" "Microchip Technology"
-			(at 48.006 68.072 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "MAXIMUM_PACKAGE_HEIGHT" "1.0mm"
-			(at 48.006 68.072 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "BALL_COLUMNS" ""
-			(at 48.006 68.072 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "PIN_COUNT_E" "16.0"
-			(at 48.006 68.072 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "BODY_DIAMETER" ""
-			(at 48.006 68.072 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "E_MIN" "9.0"
-			(at 48.006 68.072 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "D_MIN" "9.0"
-			(at 48.006 68.072 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "MP" "LAN7801/9JX"
-			(at 48.006 68.072 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "PINS" ""
-			(at 48.006 68.072 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "L_MIN" "0.3"
-			(at 48.006 68.072 0)
+		(property "MANUFACTURER" "Texas Instruments"
+			(at 146.812 42.164 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9333,7 +10616,545 @@
 			)
 		)
 		(property "Availability" "In Stock"
-			(at 48.006 68.072 0)
+			(at 146.812 42.164 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "MAXIMUM_PACKAGE_HEIGHT" "0.4 mm"
+			(at 146.812 42.164 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "516aa962-bce8-44fe-a616-d20074433324")
+		)
+		(pin "5"
+			(uuid "96191b23-dd6f-456b-b529-42f4e3456ebd")
+		)
+		(pin "3"
+			(uuid "8835657e-b94d-4ba7-89e7-d7d3c35a3eeb")
+		)
+		(pin "4"
+			(uuid "3bc74534-d908-4b94-b9b9-a50a2c744042")
+		)
+		(pin "2"
+			(uuid "880bbeaa-a289-4eff-9185-56997e78fd24")
+		)
+		(instances
+			(project ""
+				(path "/b00c1253-ab18-4b3e-8546-134ebc6e3f42"
+					(reference "U6")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "LAN7801_9JX:LAN7801_9JX")
+		(at 168.148 120.65 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "e63ba021-55a6-41ae-a2ca-d4bc658ac7b4")
+		(property "Reference" "U1"
+			(at 168.148 65.278 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "LAN7801_9JX"
+			(at 168.148 67.818 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "LAN7801:QFN50P900X900X100-65N_LAN7801_9JX"
+			(at 168.148 120.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 168.148 120.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 168.148 120.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SNAPEDA_PACKAGE_ID" ""
+			(at 168.148 120.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "B_NOM" "0.24"
+			(at 168.148 120.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "EMAX" ""
+			(at 168.148 120.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "D_MAX" "9.0"
+			(at 168.148 120.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "PACKAGE_TYPE" ""
+			(at 168.148 120.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "PIN_COUNT_D" "16.0"
+			(at 168.148 120.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "THERMAL_PAD" ""
+			(at 168.148 120.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "DMAX" ""
+			(at 168.148 120.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Check_prices" "https://www.snapeda.com/parts/LAN7801/9JX/Microchip+Technology/view-part/?ref=eda"
+			(at 168.148 120.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "B_MAX" "0.3"
+			(at 168.148 120.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Description_1" "USB Bridge, USB to Ethernet USB 3.1 Ethernet Interface 64-SQFN (9x9)"
+			(at 168.148 120.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "EMIN" ""
+			(at 168.148 120.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "JEDEC" ""
+			(at 168.148 120.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Price" "None"
+			(at 168.148 120.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "ENOM" "0.5"
+			(at 168.148 120.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "D_NOM" "9.0"
+			(at 168.148 120.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "VACANCIES" ""
+			(at 168.148 120.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "L_MAX" "0.5"
+			(at 168.148 120.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "A_MAX" "1.0"
+			(at 168.148 120.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Package" "VFQFN-64 Microchip"
+			(at 168.148 120.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "E2_NOM" "6.0"
+			(at 168.148 120.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "D2_NOM" "6.0"
+			(at 168.148 120.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "PARTREV" "DS00002123F"
+			(at 168.148 120.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "DNOM" ""
+			(at 168.148 120.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "SnapEDA_Link" "https://www.snapeda.com/parts/LAN7801/9JX/Microchip+Technology/view-part/?ref=snap"
+			(at 168.148 120.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "DMIN" ""
+			(at 168.148 120.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "E_NOM" "9.0"
+			(at 168.148 120.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "BALL_ROWS" ""
+			(at 168.148 120.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "B_MIN" "0.18"
+			(at 168.148 120.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "STANDARD" "IPC 7351B"
+			(at 168.148 120.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "L_NOM" "0.4"
+			(at 168.148 120.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" "Microchip"
+			(at 168.148 120.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "IPC" ""
+			(at 168.148 120.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "PIN_COLUMNS" ""
+			(at 168.148 120.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "MF" "Microchip Technology"
+			(at 168.148 120.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "MAXIMUM_PACKAGE_HEIGHT" "1.0mm"
+			(at 168.148 120.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "BALL_COLUMNS" ""
+			(at 168.148 120.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "PIN_COUNT_E" "16.0"
+			(at 168.148 120.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "BODY_DIAMETER" ""
+			(at 168.148 120.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "E_MIN" "9.0"
+			(at 168.148 120.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "D_MIN" "9.0"
+			(at 168.148 120.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "MP" "LAN7801/9JX"
+			(at 168.148 120.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "PINS" ""
+			(at 168.148 120.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "L_MIN" "0.3"
+			(at 168.148 120.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Availability" "In Stock"
+			(at 168.148 120.65 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9343,7 +11164,7 @@
 			)
 		)
 		(property "E_MAX" "9.0"
-			(at 48.006 68.072 0)
+			(at 168.148 120.65 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9555,7 +11376,7 @@
 	)
 	(symbol
 		(lib_id "Regulator_Linear:TLV76733QWDRBxQ1")
-		(at 110.236 118.872 0)
+		(at 178.054 53.086 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -9564,7 +11385,7 @@
 		(fields_autoplaced yes)
 		(uuid "f05d8072-5c1e-4476-9736-bd6e9f4ce44b")
 		(property "Reference" "U4"
-			(at 110.236 109.22 0)
+			(at 178.054 43.434 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9572,7 +11393,7 @@
 			)
 		)
 		(property "Value" "TLV76733QWDRBxQ1"
-			(at 110.236 111.76 0)
+			(at 178.054 45.974 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9580,7 +11401,7 @@
 			)
 		)
 		(property "Footprint" "Package_SON:VSON-8-1EP_3x3mm_P0.65mm_EP1.65x2.4mm_ThermalVias"
-			(at 110.236 107.442 0)
+			(at 178.054 41.656 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9589,7 +11410,7 @@
 			)
 		)
 		(property "Datasheet" "www.ti.com/lit/gpn/TLV767-q1"
-			(at 108.966 118.872 0)
+			(at 176.784 53.086 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9598,7 +11419,7 @@
 			)
 		)
 		(property "Description" "1A, 16V Precision Linear Voltage Regulator, with enable pin, Fixed Output 3.3V, VSON-8"
-			(at 110.236 118.872 0)
+			(at 178.054 53.086 0)
 			(effects
 				(font
 					(size 1.27 1.27)
