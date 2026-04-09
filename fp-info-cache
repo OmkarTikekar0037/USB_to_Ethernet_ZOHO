@@ -1,4 +1,4 @@
-26772663171200062
+26777990459401156
 93LC56B
 93LC56B_SOIC_8
 
@@ -96187,6 +96187,13 @@ resistor handsolder
 2
 2
 Resistor_SMD
+R_3560
+
+
+0
+2
+2
+Resistor_SMD
 R_4020_10251Metric
 Resistor SMD 4020 (10251 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: http://datasheet.octopart.com/HVC0603T5004FET-Ohmite-datasheet-26699797.pdf), generated with kicad-footprint-generator
 resistor
@@ -96417,6 +96424,20 @@ SMD Shunt Resistor
 0
 4
 2
+Resistor_SMD
+Untitled
+
+
+0
+0
+0
+Resistor_SMD
+Untitled_1
+
+
+0
+0
+0
 Resistor_THT
 R_Array_SIP4
 4-pin Resistor SIP pack

@@ -2060,6 +2060,12 @@
 		(uuid "40567d5a-719e-4240-b411-4b53a4498d79")
 	)
 	(junction
+		(at 76.2 38.1)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "7e686793-a37e-4fb4-b3c9-a92376b8eaec")
+	)
+	(junction
 		(at 114.3 43.18)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -2115,7 +2121,7 @@
 	)
 	(wire
 		(pts
-			(xy 86.106 52.324) (xy 86.106 50.8)
+			(xy 76.2 50.8) (xy 76.2 51.816)
 		)
 		(stroke
 			(width 0)
@@ -2142,16 +2148,6 @@
 			(type default)
 		)
 		(uuid "1c3aa39f-8d55-416f-aee5-1eb14e871942")
-	)
-	(wire
-		(pts
-			(xy 93.726 45.72) (xy 91.186 45.72)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "271c6ed6-3e22-4fe9-aba4-0552e2c0eb3b")
 	)
 	(wire
 		(pts
@@ -2205,6 +2201,16 @@
 	)
 	(wire
 		(pts
+			(xy 81.28 43.18) (xy 93.726 43.18)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "40652658-6daf-4234-b0c6-334b2998b725")
+	)
+	(wire
+		(pts
 			(xy 119.38 72.136) (xy 120.65 72.136)
 		)
 		(stroke
@@ -2255,7 +2261,7 @@
 	)
 	(wire
 		(pts
-			(xy 56.896 45.72) (xy 81.026 45.72)
+			(xy 56.896 45.72) (xy 71.12 45.72)
 		)
 		(stroke
 			(width 0)
@@ -2305,7 +2311,17 @@
 	)
 	(wire
 		(pts
-			(xy 74.676 38.1) (xy 86.106 38.1)
+			(xy 81.28 45.72) (xy 93.726 45.72)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "87d0af85-7ac4-4384-82f4-7b23413e2fd4")
+	)
+	(wire
+		(pts
+			(xy 74.676 38.1) (xy 76.2 38.1)
 		)
 		(stroke
 			(width 0)
@@ -2445,16 +2461,6 @@
 	)
 	(wire
 		(pts
-			(xy 93.726 43.18) (xy 91.186 43.18)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "cebbfdd2-8697-458f-a980-472ffd1e221f")
-	)
-	(wire
-		(pts
 			(xy 159.766 48.26) (xy 149.86 48.26)
 		)
 		(stroke
@@ -2485,7 +2491,7 @@
 	)
 	(wire
 		(pts
-			(xy 56.896 43.18) (xy 81.026 43.18)
+			(xy 56.896 43.18) (xy 71.12 43.18)
 		)
 		(stroke
 			(width 0)
@@ -2552,6 +2558,16 @@
 			(type default)
 		)
 		(uuid "e7daf6f4-9ec5-47bc-9cbd-6e677cedf52f")
+	)
+	(wire
+		(pts
+			(xy 76.2 38.1) (xy 86.106 38.1)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e94054d8-3920-4c95-adce-532ed927382d")
 	)
 	(wire
 		(pts
@@ -2888,7 +2904,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 86.106 52.324 0)
+		(at 76.2 51.816 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -2897,7 +2913,7 @@
 		(fields_autoplaced yes)
 		(uuid "22807571-1688-429b-b7d9-c50c20bccb59")
 		(property "Reference" "#PWR02"
-			(at 86.106 58.674 0)
+			(at 76.2 58.166 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2906,7 +2922,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 86.106 57.15 0)
+			(at 76.2 56.642 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2914,7 +2930,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 86.106 52.324 0)
+			(at 76.2 51.816 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2923,7 +2939,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 86.106 52.324 0)
+			(at 76.2 51.816 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2932,7 +2948,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 86.106 52.324 0)
+			(at 76.2 51.816 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3180,7 +3196,7 @@
 	)
 	(symbol
 		(lib_id "Power_Protection:USBLC6-2P6")
-		(at 86.106 43.18 0)
+		(at 76.2 43.18 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -3188,7 +3204,7 @@
 		(dnp no)
 		(uuid "7ca8f91e-ede0-483a-b762-deb6428fceb4")
 		(property "Reference" "U5"
-			(at 80.518 39.624 0)
+			(at 78.232 39.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3197,7 +3213,7 @@
 			)
 		)
 		(property "Value" "USBLC6-2P6"
-			(at 88.138 50.292 0)
+			(at 78.232 50.292 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3207,7 +3223,7 @@
 			)
 		)
 		(property "Footprint" "Package_TO_SOT_SMD:SOT-666"
-			(at 87.122 49.911 0)
+			(at 77.216 49.911 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3218,7 +3234,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.st.com/resource/en/datasheet/usblc6-2.pdf"
-			(at 87.122 51.816 0)
+			(at 77.216 51.816 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3228,7 +3244,7 @@
 			)
 		)
 		(property "Description" "Very low capacitance ESD protection diode, 2 data-line, SOT-666"
-			(at 86.106 43.18 0)
+			(at 76.2 43.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
