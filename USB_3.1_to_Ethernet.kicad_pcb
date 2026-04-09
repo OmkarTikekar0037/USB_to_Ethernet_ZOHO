@@ -4928,7 +4928,7 @@
 	(footprint "TPS7A0230PDQNR:IC_TPS7A0230PDQNR"
 		(layer "F.Cu")
 		(uuid "9acb1ed7-8b9f-490f-ac82-fad394b20a61")
-		(at 47.83 73.575)
+		(at 72.37 66.525)
 		(property "Reference" "U6"
 			(at 0.116 -1.1032 0)
 			(layer "F.SilkS")

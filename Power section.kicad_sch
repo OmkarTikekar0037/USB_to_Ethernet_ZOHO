@@ -2878,7 +2878,7 @@
 			(uuid "71672b0d-60c4-44ee-846e-f1690cc5649b")
 		)
 		(instances
-			(project ""
+			(project "USB_3.1_to_Ethernet"
 				(path "/b00c1253-ab18-4b3e-8546-134ebc6e3f42/f3eed1fe-b26b-43be-93b7-52b7c59d4eab"
 					(reference "C1")
 					(unit 1)
@@ -2944,7 +2944,7 @@
 			(uuid "30d8e4e8-fda6-4f16-82d9-971ec836823e")
 		)
 		(instances
-			(project ""
+			(project "USB_3.1_to_Ethernet"
 				(path "/b00c1253-ab18-4b3e-8546-134ebc6e3f42/f3eed1fe-b26b-43be-93b7-52b7c59d4eab"
 					(reference "#PWR02")
 					(unit 1)
@@ -3390,7 +3390,7 @@
 			(uuid "78ea1d83-ee7e-45b5-80d2-2289fc5ff077")
 		)
 		(instances
-			(project ""
+			(project "USB_3.1_to_Ethernet"
 				(path "/b00c1253-ab18-4b3e-8546-134ebc6e3f42/f3eed1fe-b26b-43be-93b7-52b7c59d4eab"
 					(reference "#PWR01")
 					(unit 1)
