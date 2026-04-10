@@ -3,3 +3,4 @@
 *.kicad_pcb-bak
 *.bak
 *.tmp
+*.lck

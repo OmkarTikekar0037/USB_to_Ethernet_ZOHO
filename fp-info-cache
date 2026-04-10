@@ -1,4 +1,4 @@
-26777990459401156
+26781542080682815
 93LC56B
 93LC56B_SOIC_8
 
@@ -59366,6 +59366,13 @@ ceramic
 0
 3
 3
+Crystal
+XTAL_ABMM325000MHZET
+
+
+0
+4
+4
 Diode_SMD
 D_0201_0603Metric
 Diode SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), generated with kicad-footprint-generator
@@ -96071,6 +96078,13 @@ Resistor_SMD
 R_1020_2550Metric_Pad1.33x5.20mm_HandSolder
 Resistor SMD 1020 (2550 Metric), square (rectangular) end terminal, IPC-7351 nominal with elongated pad for handsoldering. (Body size source: https://www.vishay.com/docs/20019/rcwe.pdf), generated with kicad-footprint-generator
 resistor handsolder
+0
+2
+2
+Resistor_SMD
+R_1206
+
+
 0
 2
 2
