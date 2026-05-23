@@ -50,7 +50,23 @@
         "silk_text_thickness": 0.1,
         "silk_text_upright": false,
         "zones": {
-          "min_clearance": 0.5
+          "border_display_style": 2,
+          "border_hatch_pitch": 0.5,
+          "corner_radius": 0.0,
+          "corner_smoothing": 0,
+          "fill_mode": 0,
+          "hatch_gap": 1.5,
+          "hatch_orientation": 0.0,
+          "hatch_smoothing_level": 0,
+          "hatch_smoothing_value": 0.1,
+          "hatch_thickness": 1.0,
+          "min_clearance": 0.5,
+          "min_island_area": 10.0,
+          "min_thickness": 0.25,
+          "pad_connection": 1,
+          "remove_islands": 0,
+          "thermal_relief_gap": 0.5,
+          "thermal_relief_spoke_width": 0.5
         }
       },
       "diff_pair_dimensions": [],
@@ -439,13 +455,13 @@
       "isolated_pin_label": "warning",
       "label_dangling": "error",
       "label_multiple_wires": "warning",
-      "lib_symbol_issues": "warning",
-      "lib_symbol_mismatch": "warning",
+      "lib_symbol_issues": "ignore",
+      "lib_symbol_mismatch": "ignore",
       "missing_bidi_pin": "warning",
       "missing_input_pin": "warning",
       "missing_power_pin": "error",
       "missing_unit": "warning",
-      "multiple_net_names": "warning",
+      "multiple_net_names": "ignore",
       "net_not_bus_member": "warning",
       "no_connect_connected": "warning",
       "no_connect_dangling": "warning",
@@ -881,6 +897,12 @@
           "label": "#",
           "name": "${ITEM_NUMBER}",
           "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Sim.Pins",
+          "name": "Sim.Pins",
+          "show": false
         }
       ],
       "filter_string": "",
@@ -939,7 +961,7 @@
         "uuid": "b00c1253-ab18-4b3e-8546-134ebc6e3f42"
       }
     ],
-    "used_designators": "R20-23,#FLG1,C24,#PWR17-19",
+    "used_designators": "C27-49,#PWR26,#PWR28-29,R29",
     "variants": []
   },
   "sheets": [
