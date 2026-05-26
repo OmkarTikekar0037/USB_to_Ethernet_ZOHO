@@ -3304,6 +3304,16 @@
 		)
 		(uuid "2ff0ce0e-c8ff-45ef-940e-17b226e1175b")
 	)
+	(label "_N"
+		(at 81.28 45.72 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "4f492900-982d-4820-aaa9-9cdf5a9d4cf6")
+	)
 	(label "DP"
 		(at 67.31 45.72 180)
 		(effects
@@ -3313,6 +3323,16 @@
 			(justify right bottom)
 		)
 		(uuid "528ecf43-2c5a-4206-ae7c-5855266d35e9")
+	)
+	(label "_P"
+		(at 81.28 43.18 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "5bf400f9-45a4-40d5-9f38-0ba1b2357c32")
 	)
 	(label "DN"
 		(at 67.31 43.18 180)

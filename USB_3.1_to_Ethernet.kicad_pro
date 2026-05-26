@@ -512,6 +512,125 @@
         "via_diameter": 0.6,
         "via_drill": 0.3,
         "wire_width": 6
+      },
+      {
+        "clearance": 0.25,
+        "name": "1v2_pwr",
+        "pcb_color": "rgba(0, 0, 0, 0.000)",
+        "priority": 3,
+        "schematic_color": "rgba(0, 0, 0, 0.000)",
+        "track_width": 0.75,
+        "tuning_profile": ""
+      },
+      {
+        "clearance": 0.25,
+        "name": "3v3_pwr",
+        "pcb_color": "rgba(0, 0, 0, 0.000)",
+        "priority": 4,
+        "schematic_color": "rgba(0, 0, 0, 0.000)",
+        "track_width": 0.5,
+        "tuning_profile": "",
+        "via_diameter": 0.6,
+        "via_drill": 0.3
+      },
+      {
+        "clearance": 0.15,
+        "name": "EEPROM",
+        "pcb_color": "rgba(0, 0, 0, 0.000)",
+        "priority": 5,
+        "schematic_color": "rgba(0, 0, 0, 0.000)",
+        "track_width": 0.15,
+        "tuning_profile": ""
+      },
+      {
+        "clearance": 0.3,
+        "name": "ETH_MDI",
+        "pcb_color": "rgba(0, 0, 0, 0.000)",
+        "priority": 10,
+        "schematic_color": "rgba(0, 0, 0, 0.000)",
+        "track_width": 0.18,
+        "tuning_profile": ""
+      },
+      {
+        "clearance": 0.25,
+        "name": "GND",
+        "pcb_color": "rgba(0, 0, 0, 0.000)",
+        "priority": 0,
+        "schematic_color": "rgba(0, 0, 0, 0.000)",
+        "track_width": 0.2,
+        "tuning_profile": ""
+      },
+      {
+        "clearance": 0.25,
+        "name": "HS_usb3",
+        "pcb_color": "rgba(0, 0, 0, 0.000)",
+        "priority": 12,
+        "schematic_color": "rgba(0, 0, 0, 0.000)",
+        "track_width": 0.2,
+        "tuning_profile": ""
+      },
+      {
+        "clearance": 0.15,
+        "name": "MDIO_mgmt",
+        "pcb_color": "rgba(0, 0, 0, 0.000)",
+        "priority": 6,
+        "schematic_color": "rgba(0, 0, 0, 0.000)",
+        "track_width": 0.15,
+        "tuning_profile": ""
+      },
+      {
+        "clearance": 0.25,
+        "name": "RGMII_clk",
+        "pcb_color": "rgba(0, 0, 0, 0.000)",
+        "priority": 9,
+        "schematic_color": "rgba(0, 0, 0, 0.000)",
+        "track_width": 0.18,
+        "tuning_profile": ""
+      },
+      {
+        "clearance": 0.25,
+        "name": "RGMII_tx_rx",
+        "pcb_color": "rgba(0, 0, 0, 0.000)",
+        "priority": 8,
+        "schematic_color": "rgba(0, 0, 0, 0.000)",
+        "track_width": 0.18,
+        "tuning_profile": ""
+      },
+      {
+        "clearance": 0.5,
+        "name": "analog_phy",
+        "pcb_color": "rgba(0, 0, 0, 0.000)",
+        "priority": 1,
+        "schematic_color": "rgba(0, 0, 0, 0.000)",
+        "track_width": 0.2,
+        "tuning_profile": ""
+      },
+      {
+        "clearance": 0.5,
+        "name": "clk_25",
+        "pcb_color": "rgba(0, 0, 0, 0.000)",
+        "priority": 7,
+        "schematic_color": "rgba(0, 0, 0, 0.000)",
+        "track_width": 0.2,
+        "tuning_profile": ""
+      },
+      {
+        "clearance": 0.25,
+        "name": "usb2_dp",
+        "pcb_color": "rgba(0, 0, 0, 0.000)",
+        "priority": 11,
+        "schematic_color": "rgba(0, 0, 0, 0.000)",
+        "track_width": 0.25,
+        "tuning_profile": ""
+      },
+      {
+        "clearance": 0.3,
+        "name": "usb_vbus",
+        "pcb_color": "rgba(0, 0, 0, 0.000)",
+        "priority": 2,
+        "schematic_color": "rgba(0, 0, 0, 0.000)",
+        "track_width": 1.4,
+        "tuning_profile": ""
       }
     ],
     "meta": {
@@ -519,7 +638,100 @@
     },
     "net_colors": null,
     "netclass_assignments": null,
-    "netclass_patterns": []
+    "netclass_patterns": [
+      {
+        "netclass": "usb_vbus",
+        "pattern": "VBUS"
+      },
+      {
+        "netclass": "usb_vbus",
+        "pattern": "+5V"
+      },
+      {
+        "netclass": "3v3_pwr",
+        "pattern": "3v3_out"
+      },
+      {
+        "netclass": "GND",
+        "pattern": "GND"
+      },
+      {
+        "netclass": "HS_usb3",
+        "pattern": "SS(RX+|RX-|TX+|TX-)"
+      },
+      {
+        "netclass": "HS_usb3",
+        "pattern": "SSRX+"
+      },
+      {
+        "netclass": "HS_usb3",
+        "pattern": "SSTX+"
+      },
+      {
+        "netclass": "HS_usb3",
+        "pattern": "/Power section/ss(rx_N|rx_P|tx_N|tx_P)"
+      },
+      {
+        "netclass": "usb2_dp",
+        "pattern": "/Power section/D(N|P)"
+      },
+      {
+        "netclass": "usb2_dp",
+        "pattern": "D(+|-)"
+      },
+      {
+        "netclass": "1v2_pwr",
+        "pattern": "1v2_core"
+      },
+      {
+        "netclass": "RGMII_tx_rx",
+        "pattern": "/RXC|/RXD0|/RXD1|/RXD2|/RXD3|/TXC|/TXD0|/TXD1|/TXD2|/TXD3"
+      },
+      {
+        "netclass": "RGMII_clk",
+        "pattern": "/TXC"
+      },
+      {
+        "netclass": "RGMII_clk",
+        "pattern": "/TX_EN"
+      },
+      {
+        "netclass": "RGMII_clk",
+        "pattern": "/TX_CTL"
+      },
+      {
+        "netclass": "RGMII_clk",
+        "pattern": "/GTX_CLK"
+      },
+      {
+        "netclass": "RGMII_clk",
+        "pattern": "slash"
+      },
+      {
+        "netclass": "RGMII_clk",
+        "pattern": "/RX(C|_CTL)"
+      },
+      {
+        "netclass": "ETH_MDI",
+        "pattern": "/TXRX(M_A|M_B|M_C|M_D|P_A|P_B|P_C|P_D)"
+      },
+      {
+        "netclass": "MDIO_mgmt",
+        "pattern": "/MD(C|IO)"
+      },
+      {
+        "netclass": "clk_25",
+        "pattern": "/X(I_PHY|O_PHY)"
+      },
+      {
+        "netclass": "clk_25",
+        "pattern": "/X(I_LAN|O_LAN)"
+      },
+      {
+        "netclass": "EEPROM",
+        "pattern": "/CLK|/CS|/DI|/DO"
+      }
+    ]
   },
   "pcbnew": {
     "last_paths": {
