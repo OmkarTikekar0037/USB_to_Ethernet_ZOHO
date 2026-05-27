@@ -9199,7 +9199,7 @@
 	)
 	(rectangle
 		(start 219.71 12.7)
-		(end 284.48 80.01)
+		(end 284.48 83.82)
 		(stroke
 			(width 0)
 			(type default)
@@ -10867,7 +10867,7 @@
 	)
 	(wire
 		(pts
-			(xy 264.16 87.63) (xy 259.08 87.63)
+			(xy 262.89 95.25) (xy 257.81 95.25)
 		)
 		(stroke
 			(width 0)
@@ -11657,7 +11657,7 @@
 	)
 	(wire
 		(pts
-			(xy 233.68 87.63) (xy 241.3 87.63)
+			(xy 232.41 95.25) (xy 240.03 95.25)
 		)
 		(stroke
 			(width 0)
@@ -11977,7 +11977,7 @@
 	)
 	(wire
 		(pts
-			(xy 248.92 87.63) (xy 251.46 87.63)
+			(xy 247.65 95.25) (xy 250.19 95.25)
 		)
 		(stroke
 			(width 0)
@@ -12686,7 +12686,7 @@
 		(uuid "4d340511-2f6d-460b-9b7d-d8c81b64db8a")
 	)
 	(label "~{SUSPEND_N}"
-		(at 233.68 87.63 180)
+		(at 232.41 95.25 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -13584,7 +13584,7 @@
 	)
 	(global_label "3v3_out"
 		(shape input)
-		(at 264.16 87.63 0)
+		(at 262.89 95.25 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -13594,7 +13594,7 @@
 		)
 		(uuid "7a6cdc79-2ef5-4ee5-8f58-daf8171f2773")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 274.5231 87.63 0)
+			(at 273.2531 95.25 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -15489,7 +15489,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 255.27 87.63 90)
+		(at 254 95.25 90)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -15499,7 +15499,7 @@
 		(dnp no)
 		(uuid "27d7de5a-7b42-4eb9-a2ff-33e68da3b1b3")
 		(property "Reference" "R25"
-			(at 252.984 85.344 90)
+			(at 251.714 92.964 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -15510,7 +15510,7 @@
 			)
 		)
 		(property "Value" "1.5K"
-			(at 261.112 85.344 90)
+			(at 259.842 92.964 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -15521,7 +15521,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
-			(at 255.27 89.408 90)
+			(at 254 97.028 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15532,7 +15532,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 255.27 87.63 0)
+			(at 254 95.25 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15543,7 +15543,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 255.27 87.63 0)
+			(at 254 95.25 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17480,7 +17480,7 @@
 	)
 	(symbol
 		(lib_id "Device:LED")
-		(at 245.11 87.63 0)
+		(at 243.84 95.25 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -17490,7 +17490,7 @@
 		(dnp no)
 		(uuid "4dfb2693-62b2-488f-a62f-b9dde369184d")
 		(property "Reference" "D1"
-			(at 245.11 84.074 0)
+			(at 243.84 91.694 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -17500,7 +17500,7 @@
 			)
 		)
 		(property "Value" "LED"
-			(at 245.11 90.932 0)
+			(at 243.84 98.552 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -17510,7 +17510,7 @@
 			)
 		)
 		(property "Footprint" "LED_SMD:LED_01005_0402Metric"
-			(at 245.11 87.63 0)
+			(at 243.84 95.25 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17521,7 +17521,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 245.11 87.63 0)
+			(at 243.84 95.25 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17532,7 +17532,7 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
-			(at 245.11 87.63 0)
+			(at 243.84 95.25 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17543,7 +17543,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 245.11 87.63 0)
+			(at 243.84 95.25 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
