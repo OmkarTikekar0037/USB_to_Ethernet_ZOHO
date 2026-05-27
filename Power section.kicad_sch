@@ -2866,6 +2866,16 @@
 	)
 	(wire
 		(pts
+			(xy 93.98 45.72) (xy 91.44 45.72)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "73403f4b-22d5-42da-9dc5-5d172cc2194a")
+	)
+	(wire
+		(pts
 			(xy 121.92 46.99) (xy 121.92 48.26)
 		)
 		(stroke
@@ -3066,16 +3076,6 @@
 	)
 	(wire
 		(pts
-			(xy 91.44 45.72) (xy 93.98 45.72)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "bc5ae60c-0e74-4b73-8ffa-3a45f1cb6ec4")
-	)
-	(wire
-		(pts
 			(xy 68.58 59.69) (xy 68.58 60.96)
 		)
 		(stroke
@@ -3123,16 +3123,6 @@
 			(type default)
 		)
 		(uuid "d3dfb00a-26c9-457b-b2fd-9c0a66448efb")
-	)
-	(wire
-		(pts
-			(xy 91.44 43.18) (xy 93.98 43.18)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d4fb6408-080c-4171-9c0f-8f99ab8cb093")
 	)
 	(wire
 		(pts
@@ -3284,6 +3274,16 @@
 		)
 		(uuid "fcd1e534-0d4f-4ff3-a432-030799597d3c")
 	)
+	(wire
+		(pts
+			(xy 93.98 43.18) (xy 91.44 43.18)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fdad208f-6d21-49bc-bf6e-773c95a5c113")
+	)
 	(label "ssrx_N"
 		(at 57.15 49.53 0)
 		(effects
@@ -3386,7 +3386,7 @@
 	)
 	(global_label "D-"
 		(shape input)
-		(at 93.98 43.18 0)
+		(at 93.98 45.72 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3396,7 +3396,7 @@
 		)
 		(uuid "2e73a83b-baca-411e-96cb-4609a73442ec")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 99.8076 43.18 0)
+			(at 99.8076 45.72 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3409,7 +3409,7 @@
 	)
 	(global_label "D+"
 		(shape input)
-		(at 93.98 45.72 0)
+		(at 93.98 43.18 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3419,7 +3419,7 @@
 		)
 		(uuid "367f0ff5-f248-4f3b-964b-318f134e1210")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 99.8076 45.72 0)
+			(at 99.8076 43.18 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
