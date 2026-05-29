@@ -9737,7 +9737,7 @@
 	)
 	(wire
 		(pts
-			(xy 184.15 134.62) (xy 187.96 134.62)
+			(xy 184.15 134.62) (xy 201.93 134.62)
 		)
 		(stroke
 			(width 0)
@@ -9767,17 +9767,7 @@
 	)
 	(wire
 		(pts
-			(xy 195.58 142.24) (xy 200.66 142.24)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "062b292f-7aeb-44c7-b3d9-c21874b4579b")
-	)
-	(wire
-		(pts
-			(xy 184.15 127) (xy 187.96 127)
+			(xy 184.15 127) (xy 201.93 127)
 		)
 		(stroke
 			(width 0)
@@ -9977,7 +9967,7 @@
 	)
 	(wire
 		(pts
-			(xy 184.15 147.32) (xy 187.96 147.32)
+			(xy 184.15 147.32) (xy 200.66 147.32)
 		)
 		(stroke
 			(width 0)
@@ -10104,16 +10094,6 @@
 			(type default)
 		)
 		(uuid "26a3abc0-01e9-46c1-9d2f-47b61f04be2c")
-	)
-	(wire
-		(pts
-			(xy 195.58 147.32) (xy 200.66 147.32)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "275a608d-bede-4b12-b0cc-02db0501e893")
 	)
 	(wire
 		(pts
@@ -10277,16 +10257,6 @@
 	)
 	(wire
 		(pts
-			(xy 195.58 132.08) (xy 201.93 132.08)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "37d90e6b-8c74-407d-9eca-22e796c7f403")
-	)
-	(wire
-		(pts
 			(xy 154.94 133.35) (xy 151.13 133.35)
 		)
 		(stroke
@@ -10327,7 +10297,7 @@
 	)
 	(wire
 		(pts
-			(xy 184.15 121.92) (xy 187.96 121.92)
+			(xy 184.15 121.92) (xy 201.93 121.92)
 		)
 		(stroke
 			(width 0)
@@ -10497,17 +10467,7 @@
 	)
 	(wire
 		(pts
-			(xy 195.58 152.4) (xy 200.66 152.4)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "55d8873b-4a22-4196-b075-1841d68fa5c3")
-	)
-	(wire
-		(pts
-			(xy 184.15 124.46) (xy 187.96 124.46)
+			(xy 184.15 124.46) (xy 201.93 124.46)
 		)
 		(stroke
 			(width 0)
@@ -10587,7 +10547,7 @@
 	)
 	(wire
 		(pts
-			(xy 184.15 144.78) (xy 187.96 144.78)
+			(xy 184.15 144.78) (xy 200.66 144.78)
 		)
 		(stroke
 			(width 0)
@@ -10827,7 +10787,7 @@
 	)
 	(wire
 		(pts
-			(xy 184.15 149.86) (xy 187.96 149.86)
+			(xy 184.15 149.86) (xy 200.66 149.86)
 		)
 		(stroke
 			(width 0)
@@ -10954,16 +10914,6 @@
 			(type default)
 		)
 		(uuid "7d80e08e-2f43-41bd-9829-c497ee30929c")
-	)
-	(wire
-		(pts
-			(xy 195.58 124.46) (xy 201.93 124.46)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "7da47755-ae70-4b1c-91e7-6bec0ca5b054")
 	)
 	(wire
 		(pts
@@ -11097,7 +11047,7 @@
 	)
 	(wire
 		(pts
-			(xy 184.15 132.08) (xy 187.96 132.08)
+			(xy 184.15 132.08) (xy 201.93 132.08)
 		)
 		(stroke
 			(width 0)
@@ -11144,16 +11094,6 @@
 			(type default)
 		)
 		(uuid "8fa4b58d-0173-40a3-a5f5-600718dccf81")
-	)
-	(wire
-		(pts
-			(xy 195.58 129.54) (xy 201.93 129.54)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "9080e879-f768-4d36-9140-8b30198eb2a6")
 	)
 	(wire
 		(pts
@@ -11324,16 +11264,6 @@
 			(type default)
 		)
 		(uuid "a1fad813-0142-4161-b7b0-41c557378135")
-	)
-	(wire
-		(pts
-			(xy 195.58 144.78) (xy 200.66 144.78)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "a24119a8-39fd-47b5-8415-2ab0bed39064")
 	)
 	(wire
 		(pts
@@ -11737,7 +11667,7 @@
 	)
 	(wire
 		(pts
-			(xy 184.15 142.24) (xy 187.96 142.24)
+			(xy 184.15 142.24) (xy 200.66 142.24)
 		)
 		(stroke
 			(width 0)
@@ -11877,7 +11807,7 @@
 	)
 	(wire
 		(pts
-			(xy 184.15 129.54) (xy 187.96 129.54)
+			(xy 184.15 129.54) (xy 201.93 129.54)
 		)
 		(stroke
 			(width 0)
@@ -11904,6 +11834,16 @@
 			(type default)
 		)
 		(uuid "d2d91925-b77d-4aad-afbc-1b92d1fdf6f0")
+	)
+	(wire
+		(pts
+			(xy 264.16 66.04) (xy 264.16 72.39)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d40ef455-9659-4fe9-b99f-817a2846f59f")
 	)
 	(wire
 		(pts
@@ -11997,7 +11937,7 @@
 	)
 	(wire
 		(pts
-			(xy 187.96 152.4) (xy 184.15 152.4)
+			(xy 184.15 152.4) (xy 200.66 152.4)
 		)
 		(stroke
 			(width 0)
@@ -12047,6 +11987,16 @@
 	)
 	(wire
 		(pts
+			(xy 270.51 66.04) (xy 264.16 66.04)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e1cd0aa1-ee65-4dcb-84da-c670709f64b8")
+	)
+	(wire
+		(pts
 			(xy 154.94 158.75) (xy 151.13 158.75)
 		)
 		(stroke
@@ -12087,16 +12037,6 @@
 	)
 	(wire
 		(pts
-			(xy 195.58 121.92) (xy 201.93 121.92)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "e63e378c-fc79-45d1-9854-33ca85fc967a")
-	)
-	(wire
-		(pts
 			(xy 201.93 43.18) (xy 201.93 48.26)
 		)
 		(stroke
@@ -12114,16 +12054,6 @@
 			(type default)
 		)
 		(uuid "e99b03b2-a34a-4f19-8a04-2f5341f22d6b")
-	)
-	(wire
-		(pts
-			(xy 195.58 139.7) (xy 200.66 139.7)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "e9bb4e60-243c-4cb0-af7e-05e30c369de0")
 	)
 	(wire
 		(pts
@@ -12227,17 +12157,7 @@
 	)
 	(wire
 		(pts
-			(xy 195.58 149.86) (xy 200.66 149.86)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "f0afcc7d-81ab-46fa-8508-7526a7019116")
-	)
-	(wire
-		(pts
-			(xy 184.15 139.7) (xy 187.96 139.7)
+			(xy 184.15 139.7) (xy 200.66 139.7)
 		)
 		(stroke
 			(width 0)
@@ -12254,16 +12174,6 @@
 			(type default)
 		)
 		(uuid "f312ace4-06c6-4cd3-bbd8-685735e99be2")
-	)
-	(wire
-		(pts
-			(xy 195.58 127) (xy 201.93 127)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "f39618ab-647e-416e-9dfe-97d2dceeefe8")
 	)
 	(wire
 		(pts
@@ -12384,16 +12294,6 @@
 			(type default)
 		)
 		(uuid "feee319b-b224-4577-ad5d-568fc67ac832")
-	)
-	(wire
-		(pts
-			(xy 195.58 134.62) (xy 201.93 134.62)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "ffedbe29-fb3a-4585-bf6a-f0e26942aa39")
 	)
 	(label "RXD0/MODE0"
 		(at 182.88 80.01 0)
@@ -12535,7 +12435,7 @@
 		)
 		(uuid "298bc6be-cccb-45d8-bfda-0b44531a3bf8")
 	)
-	(label "TXD0"
+	(label "TXD0_phy"
 		(at 120.65 49.53 180)
 		(effects
 			(font
@@ -12635,7 +12535,7 @@
 		)
 		(uuid "493c8a20-587b-4c5f-a1bb-9e07849028cc")
 	)
-	(label "TXD2"
+	(label "TXD2_phy"
 		(at 120.65 54.61 180)
 		(effects
 			(font
@@ -12644,6 +12544,16 @@
 			(justify right bottom)
 		)
 		(uuid "497dc09e-ee96-4e1c-ba61-66f682ab458f")
+	)
+	(label "TXD1_phy"
+		(at 201.93 127 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "4a6e9e94-2816-4f0d-8717-2bb1264f04a8")
 	)
 	(label "~{RESET_N}"
 		(at 120.65 36.83 180)
@@ -12725,15 +12635,15 @@
 		)
 		(uuid "54d0cbcc-1fd1-4dff-b352-930211e0789a")
 	)
-	(label "TXD3"
-		(at 201.93 121.92 0)
+	(label "TXD0_phy"
+		(at 201.93 129.54 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify left bottom)
 		)
-		(uuid "59081bbf-c67e-44a1-ac93-a3acf426dc5d")
+		(uuid "55a46c08-74bb-45b6-b58b-a9204c746ff1")
 	)
 	(label "LED1-"
 		(at 158.75 177.8 0)
@@ -12755,7 +12665,7 @@
 		)
 		(uuid "5bc8db6b-9010-4666-b5cf-08e04137f7a6")
 	)
-	(label "TXD3"
+	(label "TXD3_phy"
 		(at 120.65 57.15 180)
 		(effects
 			(font
@@ -12865,6 +12775,16 @@
 		)
 		(uuid "73a7d4d4-4af6-4a2d-9c0e-19d5ad075d8f")
 	)
+	(label "TXD3_phy"
+		(at 201.93 121.92 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "7e9f57c7-2469-42ea-8744-572559b91841")
+	)
 	(label "CLK"
 		(at 95.25 111.76 0)
 		(effects
@@ -12874,6 +12794,16 @@
 			(justify left bottom)
 		)
 		(uuid "7ec7f3ed-5c2c-4cf5-ac7f-6971d24f32db")
+	)
+	(label "TXD2_phy"
+		(at 201.93 124.46 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "7fd82795-5443-47a7-b9b5-1523800e697f")
 	)
 	(label "RXD3/MODE3"
 		(at 200.66 139.7 0)
@@ -13005,16 +12935,6 @@
 		)
 		(uuid "a112e621-ae2c-49f6-8d0b-da6dcd430258")
 	)
-	(label "TXD2"
-		(at 201.93 124.46 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "a37c7845-4632-47ef-a64c-caa764b77f36")
-	)
 	(label "TXRXP_B"
 		(at 154.94 163.83 0)
 		(effects
@@ -13094,16 +13014,6 @@
 			(justify left bottom)
 		)
 		(uuid "b90da0d1-4ad1-4c00-bf68-74c84a8207db")
-	)
-	(label "TXD1"
-		(at 201.93 127 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "ba32ec36-0564-4135-afd0-91761d713f26")
 	)
 	(label "DO"
 		(at 95.25 109.22 0)
@@ -13225,16 +13135,6 @@
 		)
 		(uuid "d2daf2d3-3bde-41e4-8f59-d4c50525baa7")
 	)
-	(label "TXD0"
-		(at 201.93 129.54 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "d43b5a28-8d6b-436c-a040-4dc5865f1cd2")
-	)
 	(label "TX_EN"
 		(at 201.93 132.08 0)
 		(effects
@@ -13295,7 +13195,7 @@
 		)
 		(uuid "dd1a255d-cecb-4806-8de6-14d98ad3f926")
 	)
-	(label "TXD1"
+	(label "TXD1_phy"
 		(at 120.65 52.07 180)
 		(effects
 			(font
@@ -13710,6 +13610,29 @@
 		(uuid "9e24ac3c-051f-4b89-b98b-93312d41a99a")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 199.5931 21.59 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+	)
+	(global_label "1v2_core"
+		(shape input)
+		(at 270.51 66.04 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "a4464637-9b5c-440a-bcea-49d91e207622")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 281.9618 66.04 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -14140,85 +14063,6 @@
 			(project "USB_3.1_to_Ethernet"
 				(path "/b00c1253-ab18-4b3e-8546-134ebc6e3f42"
 					(reference "C33")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R")
-		(at 191.77 152.4 90)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "0460960a-bd43-41e7-b16a-00a0d072aa4c")
-		(property "Reference" "R15"
-			(at 186.944 151.384 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "27R"
-			(at 196.342 151.384 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
-			(at 191.77 154.178 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 191.77 152.4 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Resistor"
-			(at 191.77 152.4 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "2"
-			(uuid "0767a750-3316-4b17-8c6e-86bcd94548aa")
-		)
-		(pin "1"
-			(uuid "71e85701-2638-4128-a967-009a2e49c426")
-		)
-		(instances
-			(project "USB_3.1_to_Ethernet"
-				(path "/b00c1253-ab18-4b3e-8546-134ebc6e3f42"
-					(reference "R15")
 					(unit 1)
 				)
 			)
@@ -15010,85 +14854,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:R")
-		(at 191.77 127 90)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "1798e106-eb68-4a35-9095-565e7be889a4")
-		(property "Reference" "R8"
-			(at 186.69 125.984 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "27R"
-			(at 196.342 125.984 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
-			(at 191.77 128.778 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 191.77 127 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Resistor"
-			(at 191.77 127 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "2"
-			(uuid "30b6ba9d-1008-4a10-8ec8-1d43e8c7c3fc")
-		)
-		(pin "1"
-			(uuid "3dfd9981-f83c-4c4a-8917-2ccd2f3b255b")
-		)
-		(instances
-			(project "USB_3.1_to_Ethernet"
-				(path "/b00c1253-ab18-4b3e-8546-134ebc6e3f42"
-					(reference "R8")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:L_Ferrite")
 		(at 100.33 43.18 90)
 		(unit 1)
@@ -15243,164 +15008,6 @@
 			(project "USB_3.1_to_Ethernet"
 				(path "/b00c1253-ab18-4b3e-8546-134ebc6e3f42"
 					(reference "R27")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R")
-		(at 191.77 139.7 90)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "1f452ab7-77e3-45f4-9d5e-8feb2d81138f")
-		(property "Reference" "R12"
-			(at 187.198 138.684 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "27R"
-			(at 196.342 138.684 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
-			(at 191.77 141.478 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 191.77 139.7 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Resistor"
-			(at 191.77 139.7 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "2"
-			(uuid "f0987635-b528-4f55-8a86-a7e06cbd42c0")
-		)
-		(pin "1"
-			(uuid "dd2dc3f4-b69c-4d61-acc5-aed48691c9ff")
-		)
-		(instances
-			(project "USB_3.1_to_Ethernet"
-				(path "/b00c1253-ab18-4b3e-8546-134ebc6e3f42"
-					(reference "R12")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R")
-		(at 191.77 134.62 90)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "226ccfe3-010c-468d-aedc-b545f2375942")
-		(property "Reference" "R17"
-			(at 187.198 133.604 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "27R"
-			(at 196.342 133.604 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
-			(at 191.77 136.398 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 191.77 134.62 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Resistor"
-			(at 191.77 134.62 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "2"
-			(uuid "0ded2604-bbe7-4845-8d45-9f7c09135239")
-		)
-		(pin "1"
-			(uuid "4dc3f328-457e-4c98-b335-19a54dc4d5cc")
-		)
-		(instances
-			(project "USB_3.1_to_Ethernet"
-				(path "/b00c1253-ab18-4b3e-8546-134ebc6e3f42"
-					(reference "R17")
 					(unit 1)
 				)
 			)
@@ -16052,85 +15659,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:R")
-		(at 191.77 124.46 90)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "309ba98e-0ee7-4d70-9453-e1dbabcc2f85")
-		(property "Reference" "R7"
-			(at 186.69 123.444 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "27R"
-			(at 196.342 123.444 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
-			(at 191.77 126.238 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 191.77 124.46 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Resistor"
-			(at 191.77 124.46 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "2"
-			(uuid "edf5db59-f046-4614-b3df-61cabfbf5069")
-		)
-		(pin "1"
-			(uuid "9786b1ee-8734-4b2c-bbce-dc95edef1948")
-		)
-		(instances
-			(project "USB_3.1_to_Ethernet"
-				(path "/b00c1253-ab18-4b3e-8546-134ebc6e3f42"
-					(reference "R7")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:GND")
 		(at 20.32 121.92 0)
 		(unit 1)
@@ -16480,85 +16008,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:R")
-		(at 191.77 142.24 90)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "3de613a5-d210-4232-958d-7c43e0d9d7b4")
-		(property "Reference" "R13"
-			(at 186.944 141.224 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "27R"
-			(at 196.342 141.224 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
-			(at 191.77 144.018 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 191.77 142.24 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Resistor"
-			(at 191.77 142.24 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "2"
-			(uuid "21e41906-935b-487e-9bb9-cb8aeec9a7ae")
-		)
-		(pin "1"
-			(uuid "9b1bef73-2dfd-4962-b4b5-9ceeea888886")
-		)
-		(instances
-			(project "USB_3.1_to_Ethernet"
-				(path "/b00c1253-ab18-4b3e-8546-134ebc6e3f42"
-					(reference "R13")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:GND")
 		(at 63.5 140.97 0)
 		(unit 1)
@@ -16792,85 +16241,6 @@
 			(project "USB_3.1_to_Ethernet"
 				(path "/b00c1253-ab18-4b3e-8546-134ebc6e3f42"
 					(reference "C5")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R")
-		(at 191.77 132.08 90)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "44fb6a6a-5e8f-4ea9-9de0-dbca50cbf8f2")
-		(property "Reference" "R16"
-			(at 187.198 131.064 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "27R"
-			(at 196.342 131.064 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
-			(at 191.77 133.858 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 191.77 132.08 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Resistor"
-			(at 191.77 132.08 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "2"
-			(uuid "a9bfd18f-15b4-45d9-a353-c8850b826595")
-		)
-		(pin "1"
-			(uuid "4a077757-b929-43d2-8c6c-f2ee97737388")
-		)
-		(instances
-			(project "USB_3.1_to_Ethernet"
-				(path "/b00c1253-ab18-4b3e-8546-134ebc6e3f42"
-					(reference "R16")
 					(unit 1)
 				)
 			)
@@ -19135,85 +18505,6 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 191.77 144.78 90)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "868f3139-4b48-4719-8e9c-a0c0c44309c0")
-		(property "Reference" "R10"
-			(at 186.944 143.764 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "27R"
-			(at 196.342 143.764 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
-			(at 191.77 146.558 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 191.77 144.78 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Resistor"
-			(at 191.77 144.78 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "2"
-			(uuid "dcdebab8-c7b3-4185-973a-02f803572211")
-		)
-		(pin "1"
-			(uuid "f859b1c9-2c2b-4a31-97f7-f4918412f34d")
-		)
-		(instances
-			(project "USB_3.1_to_Ethernet"
-				(path "/b00c1253-ab18-4b3e-8546-134ebc6e3f42"
-					(reference "R10")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R")
 		(at 250.19 160.02 90)
 		(unit 1)
 		(body_style 1)
@@ -19286,85 +18577,6 @@
 			(project "USB_3.1_to_Ethernet"
 				(path "/b00c1253-ab18-4b3e-8546-134ebc6e3f42"
 					(reference "R18")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R")
-		(at 191.77 129.54 90)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "87df7c19-0a1a-40b0-95fe-c29d3ec60cdc")
-		(property "Reference" "R9"
-			(at 186.69 128.524 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "27R"
-			(at 196.342 128.524 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
-			(at 191.77 131.318 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 191.77 129.54 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Resistor"
-			(at 191.77 129.54 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "2"
-			(uuid "9ba7a6a8-ae2f-49bb-a110-6c68f9d23987")
-		)
-		(pin "1"
-			(uuid "2ccf18da-4d6e-412a-b5f1-3710c322a840")
-		)
-		(instances
-			(project "USB_3.1_to_Ethernet"
-				(path "/b00c1253-ab18-4b3e-8546-134ebc6e3f42"
-					(reference "R9")
 					(unit 1)
 				)
 			)
@@ -21282,164 +20494,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:R")
-		(at 191.77 121.92 90)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "db2fd997-55d6-4f7b-b21b-0fb2bc13e203")
-		(property "Reference" "R6"
-			(at 186.69 120.904 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "27R"
-			(at 196.342 120.904 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
-			(at 191.77 123.698 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 191.77 121.92 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Resistor"
-			(at 191.77 121.92 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "2"
-			(uuid "c8da632d-1050-44e4-a7a6-2c18523b5328")
-		)
-		(pin "1"
-			(uuid "bf241db3-ffec-46be-898d-905525977672")
-		)
-		(instances
-			(project "USB_3.1_to_Ethernet"
-				(path "/b00c1253-ab18-4b3e-8546-134ebc6e3f42"
-					(reference "R6")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R")
-		(at 191.77 149.86 90)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "e10f1366-5b47-4deb-a893-cf658f0e259a")
-		(property "Reference" "R14"
-			(at 186.944 148.844 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "27R"
-			(at 196.342 148.844 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
-			(at 191.77 151.638 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 191.77 149.86 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Resistor"
-			(at 191.77 149.86 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "2"
-			(uuid "7628ba1d-a455-46c2-bb06-9cc00597c994")
-		)
-		(pin "1"
-			(uuid "fc569258-ced3-42de-ab81-4f8702c3f948")
-		)
-		(instances
-			(project "USB_3.1_to_Ethernet"
-				(path "/b00c1253-ab18-4b3e-8546-134ebc6e3f42"
-					(reference "R14")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:C")
 		(at 236.22 48.26 0)
 		(unit 1)
@@ -22815,85 +21869,6 @@
 			(project "USB_3.1_to_Ethernet"
 				(path "/b00c1253-ab18-4b3e-8546-134ebc6e3f42"
 					(reference "C26")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R")
-		(at 191.77 147.32 90)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "f3bed2e4-2f55-40e1-9e1e-c71f9b477ac8")
-		(property "Reference" "R11"
-			(at 186.944 146.304 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "27R"
-			(at 196.342 146.304 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
-			(at 191.77 149.098 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 191.77 147.32 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Resistor"
-			(at 191.77 147.32 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "2"
-			(uuid "2e468f4b-7748-47bc-b6c3-0c8c23fbfdd2")
-		)
-		(pin "1"
-			(uuid "917e23c8-11de-467e-afde-189085034fa3")
-		)
-		(instances
-			(project "USB_3.1_to_Ethernet"
-				(path "/b00c1253-ab18-4b3e-8546-134ebc6e3f42"
-					(reference "R11")
 					(unit 1)
 				)
 			)
