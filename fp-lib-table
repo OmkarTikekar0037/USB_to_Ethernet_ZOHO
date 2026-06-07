@@ -2,4 +2,5 @@
 	(version 7)
 	(lib (name "KSZ9031RNXCC") (type "KiCad") (uri "${KIPRJMOD}/KSZ9031RNXCC.pretty") (options "") (descr ""))
 	(lib (name "Lan7801") (type "KiCad") (uri "${KIPRJMOD}/Lan7801.pretty") (options "") (descr ""))
+	(lib (name "lan7801") (type "KiCad") (uri "${KIPRJMOD}/Lan7801.pretty/lan7801.pretty") (options "") (descr ""))
 )

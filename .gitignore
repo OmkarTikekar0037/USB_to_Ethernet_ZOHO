@@ -54,3 +54,6 @@ __pycache__/
 *-backups/
 backup/
 backups/
+
+#local history
+.history
