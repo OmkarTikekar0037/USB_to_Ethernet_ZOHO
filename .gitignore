@@ -25,7 +25,6 @@ fp-info-cache
 *.pos
 *.rpt
 *.csv
-*.step
 *.stp
 
 # Netlists (usually regenerated)
