@@ -5226,9 +5226,9 @@
 			(uuid "0d218af9-00c7-439e-b3d8-460e0c36afbf")
 		)
 		(embedded_fonts no)
-		(model "C:/Users/ASUS/Downloads/A-USB3_A-LP-SMT1.step"
+		(model "C:/Users/F.R.I.D.A.Y/Downloads/GSB316441CEU--3DModel-STEP-510211.STEP"
 			(offset
-				(xyz -8.5 0 0)
+				(xyz -8.255 0 0)
 			)
 			(scale
 				(xyz 1 1 1)
@@ -9483,7 +9483,7 @@
 			(uuid "e0b1db05-3da9-4b93-b234-0ce724e467dd")
 		)
 		(embedded_fonts no)
-		(model "C:/Users/fuleu/Downloads/KSZ9031RNXCC/KSZ9031RNXCC.step"
+		(model "C:/Users/F.R.I.D.A.Y/Downloads/KSZ9031RNXCC.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -15256,13 +15256,13 @@
 		(uuid "1f3faeb6-acfc-45c1-9002-2c686d975e55")
 		(at 67.695 70.99 -90)
 		(property "Reference" "U6"
-			(at 0.116 1.1032 180)
+			(at 0.116 1.1032 0)
 			(layer "B.SilkS")
 			(uuid "48cb9df0-9075-4447-9308-14768586a5ce")
 			(effects
 				(font
 					(size 0.32 0.32)
-					(thickness 0.15)
+					(thickness 0.08)
 				)
 				(justify mirror)
 			)
@@ -15275,7 +15275,7 @@
 			(effects
 				(font
 					(size 0.32 0.32)
-					(thickness 0.15)
+					(thickness 0.08)
 				)
 				(justify mirror)
 			)
@@ -15846,6 +15846,17 @@
 			(uuid "6c78a8d5-7dd8-4b52-bbdf-495209e72db4")
 		)
 		(embedded_fonts no)
+		(model "C:/Users/F.R.I.D.A.Y/Downloads/TPS7A0215PDQNR.STEP"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -0)
+			)
+		)
 	)
 	(footprint "Resistor_SMD:R_0402_1005Metric"
 		(layer "B.Cu")
@@ -16487,15 +16498,15 @@
 			(uuid "00a60b63-be11-4eba-b893-bcbc9f5a0ff9")
 		)
 		(embedded_fonts no)
-		(model "${KICAD9_3DMODEL_DIR}/Package_SON.3dshapes/VSON-8-1EP_3x3mm_P0.65mm_EP1.65x2.4mm.step"
+		(model "C:/Users/F.R.I.D.A.Y/Downloads/TLV76733DRVR (1).STEP"
 			(offset
 				(xyz 0 0 0)
 			)
 			(scale
-				(xyz 1 1 1)
+				(xyz 1 0.5 1.4)
 			)
 			(rotate
-				(xyz 0 0 0)
+				(xyz -90 -0 -0)
 			)
 		)
 	)
