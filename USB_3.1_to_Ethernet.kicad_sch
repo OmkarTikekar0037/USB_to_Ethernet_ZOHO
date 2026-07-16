@@ -9186,7 +9186,7 @@
 		(uuid "ab593cf3-8332-46a8-b31e-f5b117977164")
 	)
 	(rectangle
-		(start 12.7 13.97)
+		(start 12.7 12.7)
 		(end 111.76 157.48)
 		(stroke
 			(width 0)
