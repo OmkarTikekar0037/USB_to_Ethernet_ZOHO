@@ -15,7 +15,7 @@ The objective is to document the purpose of each component and the consideration
 | LAN7801 | USB-to-Gigabit Ethernet Controller |
 | KSZ9031RNX | Gigabit Ethernet PHY |
 | 93LC56 | External Configuration EEPROM |
-| USB Type-C Receptacle | USB Interface |
+| USB Type-A Plug | USB Interface |
 | RJ45 MagJack | Ethernet Connector with Integrated Magnetics |
 | TLV76733 | 3.3 V Voltage Regulator |
 | TPS7A0212 | 1.2 V Voltage Regulator |
