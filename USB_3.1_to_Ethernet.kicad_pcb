@@ -17191,7 +17191,7 @@
 		)
 	)
 	(gr_text "RGMII"
-		(at 92.25 57.4 0)
+		(at 91.68 73.54 0)
 		(layer "F.SilkS")
 		(uuid "146a1905-0e8d-4831-b6fe-73d2cc5c455d")
 		(effects

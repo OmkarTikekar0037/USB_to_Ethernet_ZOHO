@@ -5360,7 +5360,7 @@
 				)
 			)
 		)
-		(property "Footprint" "TPS7A0230PDQNR:IC_TPS7A0230PDQNR"
+		(property "Footprint" "TPS7A0212:Tps_7a0212"
 			(at 127 74.93 0)
 			(hide yes)
 			(show_name no)
