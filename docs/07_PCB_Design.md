@@ -54,7 +54,7 @@ Critical devices were placed according to signal flow rather than mechanical con
 
 # 4. USB SuperSpeed Routing
 
-The USB SuperSpeed differential pairs were routed directly between the USB Type-C connector and the LAN7801.
+The USB SuperSpeed differential pairs were routed directly between the USB Type-A connector and the LAN7801.
 
 Routing objectives included:
 
