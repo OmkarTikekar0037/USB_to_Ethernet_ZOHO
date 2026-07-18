@@ -83,18 +83,18 @@ Separating configuration from the controller allows firmware-independent customi
 
 ---
 
-# 6. USB Type-C Connector
+# 6. USB Type-A Connector
 
 ## Role
 
-The USB Type-C connector provides:
+The USB Type-A connector provides:
 
 - USB SuperSpeed interface
 - USB 2.0 compatibility
 - System power input
 - Mechanical connection to the host
 
-The connector follows the standard USB Type-C implementation required for USB device operation.
+
 
 ---
 
