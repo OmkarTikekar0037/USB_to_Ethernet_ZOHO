@@ -3,4 +3,6 @@
 	(lib (name "KSZ9031RNXCC") (type "KiCad") (uri "${KIPRJMOD}/KSZ9031RNXCC.pretty") (options "") (descr ""))
 	(lib (name "Lan7801") (type "KiCad") (uri "${KIPRJMOD}/Lan7801.pretty") (options "") (descr ""))
 	(lib (name "lan7801") (type "KiCad") (uri "${KIPRJMOD}/Lan7801.pretty/lan7801.pretty") (options "") (descr ""))
+	(lib (name "USB_to_Ethernet_ZOHO") (type "KiCad") (uri "C:/Omkar_project_R/USB_to_Ethernet_ZOHO.pretty") (options "") (descr ""))
+	(lib (name "TPS7A0212") (type "KiCad") (uri "${KIPRJMOD}/TPS7A0212.pretty") (options "") (descr ""))
 )
