@@ -29,11 +29,10 @@ The USB subsystem was designed to achieve the following objectives:
                  USB Host
                      │
                      │
-             USB Type-C Cable
                      │
                      ▼
           ┌─────────────────────┐
-          │ USB Type-C Connector│
+          │ USB Type-A Connector│
           └─────────────────────┘
                      │
       ┌──────────────┼──────────────┐
@@ -50,17 +49,15 @@ The USB subsystem was designed to achieve the following objectives:
 
 ---
 
-# 4. USB Type-C Connector
+# 4. USB Type-A Connector
 
-The USB Type-C connector serves as the interface between the host computer and the adapter.
+The USB Type-A connector serves as the interface between the host computer and the adapter.
 
 Its functions include:
 
 - Receiving USB SuperSpeed signals
 - Receiving USB 2.0 signals
 - Supplying system power through VBUS
-- Detecting cable orientation
-- Establishing device connection through the CC pins
 
 The connector is implemented as a USB device interface.
 
@@ -68,7 +65,7 @@ The connector is implemented as a USB device interface.
 
 # 5. USB Data Path
 
-The SuperSpeed differential pairs are routed directly between the USB Type-C connector and the LAN7801.
+The SuperSpeed differential pairs are routed directly between the USB Type-A connector and the LAN7801.
 
 Primary routing objectives included:
 
@@ -97,17 +94,8 @@ The routing follows standard differential pair design practices.
 
 ---
 
-# 7. USB Type-C Configuration Channel
 
-The CC pins determine the attachment state of the USB connection.
-
-The design configures the adapter as a USB device using the required pull-down resistors on the Configuration Channel (CC) pins.
-
-These resistors allow the host to correctly detect the presence of the device and establish the USB connection.
-
----
-
-# 8. Power Entry
+# 7. Power Entry
 
 System power is obtained directly from the USB VBUS supply.
 
@@ -119,7 +107,7 @@ The power architecture is discussed separately in **Power_Architecture.md**.
 
 ---
 
-# 9. Protection Circuitry
+# 8. Protection Circuitry
 
 To improve robustness, the USB interface includes protection against external electrical disturbances.
 
@@ -134,7 +122,7 @@ Component placement minimizes the distance between the connector and protection 
 
 ---
 
-# 10. PCB Layout Considerations
+# 9. PCB Layout Considerations
 
 The USB interface imposes strict layout requirements.
 
@@ -164,7 +152,7 @@ High-speed return currents are allowed to flow directly beneath their associated
 
 ---
 
-# 11. Verification
+# 10. Verification
 
 The USB subsystem was reviewed for:
 
@@ -179,7 +167,7 @@ The USB subsystem was reviewed for:
 
 ---
 
-# 12. Summary
+# 11. Summary
 
 The USB subsystem provides both communication and power entry for the adapter.
 
