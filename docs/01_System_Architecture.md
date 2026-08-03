@@ -38,7 +38,7 @@ At the highest level, the system consists of the following major functional bloc
                      │
                      ▼
         ┌──────────────────────┐
-        │      USB Type-C      │
+        │      USB Type-A      │
         └──────────────────────┘
                      │
                      ▼
@@ -187,7 +187,7 @@ The data path through the adapter is illustrated below.
 USB Host
     │
     ▼
-USB Type-C
+USB Type-A
     │
     ▼
 LAN7801
