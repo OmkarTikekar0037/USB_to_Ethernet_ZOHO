@@ -71,7 +71,7 @@ Verification included:
 - Pad geometry
 - Courtyard clearance
 
-Particular attention was given to fine-pitch integrated circuits and the USB Type-C connector.
+Particular attention was given to fine-pitch integrated circuits and the USB Type-A connector.
 
 ---
 

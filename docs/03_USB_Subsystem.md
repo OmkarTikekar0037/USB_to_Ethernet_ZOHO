@@ -4,7 +4,7 @@
 
 The USB subsystem provides the primary communication interface between the host computer and the adapter.
 
-In addition to transferring Ethernet frames, the USB interface also supplies power to the entire system through the USB Type-C connector.
+In addition to transferring Ethernet frames, the USB interface also supplies power to the entire system through the USB Type-A connector.
 
 This document describes the implementation of the USB subsystem, including the connector, protection circuitry, power entry, and interface to the LAN7801 controller.
 
@@ -16,7 +16,7 @@ The USB subsystem was designed to achieve the following objectives:
 
 - Reliable USB 3.1 Gen 1 communication
 - Stable power delivery from USB VBUS
-- Compliance with USB Type-C device connection requirements
+- Compliance with USB Type-A device connection requirements
 - Protection against ESD events
 - Controlled impedance routing for SuperSpeed differential pairs
 - Seamless integration with the LAN7801 controller

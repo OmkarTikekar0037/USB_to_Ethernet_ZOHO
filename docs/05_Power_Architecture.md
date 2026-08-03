@@ -2,7 +2,7 @@
 
 ## 1. Introduction
 
-The power architecture provides regulated supply rails for every subsystem of the adapter, beginning with the 5 V supplied through the USB Type-C connector.
+The power architecture provides regulated supply rails for every subsystem of the adapter, beginning with the 5 V supplied through the USB Type-A connector.
 
 The design emphasizes:
 
